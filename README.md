@@ -2,6 +2,8 @@
 
 ### Product
 
+Representa o produto sem especificações para efeitos de agrupamentos futuros independentes de SKUs.
+
 ### Product SKU
 
 Representa um SKU de produto, ou seja, uma variação de produto de cor e tamanho específico.
@@ -30,6 +32,8 @@ Representa a posicão atual (quantidade) de cada item em estoque.
 Pode ser apurado financeiramente com métodos de LIFO ou LIFO. Caso haja um código identificador para cada ordem de compra, é possível apuração financeira precisa da entrada e saída de cada item (ou lote de compra).
 
 ### Order
+
+Representa as ordens de venda.
 
 ### SystemNotification
 
